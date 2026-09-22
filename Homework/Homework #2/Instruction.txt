@@ -1,0 +1,32 @@
+Delivery Fee, Tax, and Total
+ 
+
+A customer places an order with a local delivery service. In addition to the cost of the items, the company charges a 12% delivery fee and 7% sales tax.
+
+Write a Python program that asks the user to enter the cost of the items ordered.
+
+The program should then:
+
+Calculate the 12% delivery fee based on the cost of the items.
+Calculate the 7% sales tax based on the cost of the items.
+Calculate the total amount of the order, including the item cost, delivery fee, and sales tax.
+Display:
+the original cost of the items,
+the delivery fee,
+the sales tax, and
+the total amount of the order.
+Example
+Enter the cost of the items: 50.00
+Item cost: $50.00
+Delivery fee: $6.00
+Sales tax: $3.50
+Total: $59.50
+
+
+Requirements
+Store the item cost entered by the user in a variable.
+Use calculations to determine the delivery fee and sales tax.
+Store the calculated amounts in variables.
+Calculate the final total.
+Display each amount with a clear description.
+Your program should work with amounts that include decimal values.

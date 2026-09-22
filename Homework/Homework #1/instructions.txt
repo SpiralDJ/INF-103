@@ -1,0 +1,28 @@
+A school club is holding a fundraiser. The company running the fundraiser gives the club 28% of the total amount of sales.
+
+Write a Python program that:
+
+Asks the user to enter the projected amount of total sales for the fundraiser.
+
+Calculates the amount of money the school club will receive.
+
+Displays the amount the club will receive.
+
+ 
+
+Example
+Enter the projected sales: 3500
+The club will receive $980.00
+
+ 
+
+Requirements
+Store the projected sales amount in a variable.
+
+Use a calculation to determine the club’s share of the sales.
+
+Store the calculated amount in a variable.
+
+Display the result in a clear message.
+
+Your program should work with sales amounts that include decimal values.
